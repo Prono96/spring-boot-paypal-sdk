@@ -1,8 +1,8 @@
 package com.example.springdemo;
 
 public class Main {
-    String x = "java: as java is working";
-    String y = "weekend: you should be resting";
+    String x = "Start: 10:30 ";
+    String y = "Stop: 12:30";
 
     public static void main(String[] args) {
         Main myObj = new Main();

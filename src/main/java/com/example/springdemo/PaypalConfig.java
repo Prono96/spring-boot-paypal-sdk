@@ -18,7 +18,6 @@ public class PaypalConfig {
     private String mode;
 
 
-
     @Bean
     public Map<String, String> paypalSdkConfig() {
         Map<String, String> configMap = new HashMap<>();
